@@ -36,6 +36,6 @@ TARGET_VENDOR_PRODUCT_NAME := judyln_lao_com
 TARGET_VENDOR_DEVICE_NAME := judyln
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DeviceName=judyln_lao_com \
+    DeviceName=g710ulm \
     BuildDesc="judyln_lao_com-user 9 PKQ1.181105.001 200501245cecf release-keys" \
     BuildFingerprint=lge/judyln_lao_com/judyln:9/PKQ1.181105.001/200501245cecf:user/release-keys
